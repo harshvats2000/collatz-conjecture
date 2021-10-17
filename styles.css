@@ -1,0 +1,17 @@
+#header {
+  text-align: center;
+}
+input {
+  padding: 5px;
+  margin-bottom: 20px;
+}
+#alert-box {
+  background: white;
+  height: 100vh;
+  width: 100vw;
+  display: none;
+  place-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
